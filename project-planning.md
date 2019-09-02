@@ -1,8 +1,6 @@
 # What is the performance difference for a baseball player before and after an injury?
 _More specifics: which position (better/worse), which league(better/worse), which team(better/worse)_
 
-# hi 
-testing testing
-testing branch 
-testing testing 
+# hi
 
+This is what I think should be included, but I'll write it in my own branch. 

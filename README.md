@@ -4,9 +4,7 @@ Created by Justin Kang (jjk139@ucsd.edu) and Bernard Wong (bew030@ucsd.edu)
 
 # Overview 
 
-As part of our own efforts in expanding our knowledge and capabilities of data analytical and data science tools, we have decided to embark on a project that dives into the complexities of injuries and performance of players in Major League Baseball (MLB). We began this project over the summer in 2019, inspired by the vast available statistical data regarding baseball and baseball players as well as the opportunity to utilize tools and skills that we had yet to master. The fact that baseballs has an inherently dangerous sport nature and there has been a rise of injuries for players (INSERT FACT) further inclined us to embark on this project to primarily analyze 
-## how performance diffes for a baseball player before and after an injury. ## 
-We used matplotlib and seaborn to visuals our findings of performance related statistics for players affected by injuries. If you have any questions at all about the data or our findings, feel free to leave an issue or email us. 
+As part of our own efforts in expanding our knowledge and capabilities of data analytical and data science tools, we have decided to embark on a project that dives into the complexities of injuries and performance of players in Major League Baseball (MLB). We began this project over the summer in 2019, inspired by the vast available statistical data regarding baseball and baseball players as well as the opportunity to utilize tools and skills that we had yet to master. The fact that baseballs has an inherently dangerous sport nature and there has been a rise of injuries for players (INSERT FACT) further inclined us to embark on this project to primarily analyze __how performance diffes for a baseball player before and after an injury.__ We used matplotlib and seaborn to visuals our findings of performance related statistics for players affected by injuries. If you have any questions at all about the data or our findings, feel free to leave an issue or email us. 
 
 
 # The Report 
@@ -16,9 +14,7 @@ __Introduction__
 
 Part of research process included determining what other similar projects were already created that could potentially assist in our own questions and objectives for the project. What we found were a lot of computer science and medical related baseball projects that sought to predict player injuries and determining the factors that lead to all sorts of baseball-related injuries. Analysis on team game performances were also conducted. 
 
-Having (some small amount)  observed the various projects, we seek to answer the question of 
-## what performance related difference does a player experience before and after an injury has occured. ##
-Part of our objective includes determining the long and short term effects experienced by players as well as the type of injuries that can determine the time of the effects. Our field consisted of player data season data starting at 2000 and up until 2019 (go back and check). Separate comparisons were made for batters and pitchers with the primary comparison being the batting average for the former and earned run average for the latter. 
+Having (some small amount)  observed the various projects, we seek to answer the question of __what performance related difference does a player experience before and after an injury has occured.__ Part of our objective includes determining the long and short term effects experienced by players as well as the type of injuries that can determine the time of the effects. Our field consisted of player data season data starting at 2000 and up until 2019 (go back and check). Separate comparisons were made for batters and pitchers with the primary comparison being the batting average for the former and earned run average for the latter. 
 
 __Understanding and Cleaning the Data__
 

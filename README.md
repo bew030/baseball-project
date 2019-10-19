@@ -18,7 +18,11 @@ Having (some small amount)  observed the various projects, we seek to answer the
 
 __Understanding and Cleaning the Data__
 
+__Visualizing the Data__ 
 
+__Answering the Questions__ 
+
+__Conclusion__
 
 # What's Next?
 

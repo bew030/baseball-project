@@ -17,8 +17,12 @@ Part of research process included determining what other similar projects were a
 Having (some small amount)  observed the various projects, we seek to answer the question of __what performance related difference does a player experience before and after an injury has occured.__ Part of our objective includes determining the long and short term effects experienced by players as well as the type of injuries that can determine the time of the effects. Our field consisted of player data season data starting at 2000 and up until 2019 (go back and check). Separate comparisons were made for batters and pitchers with the primary comparison being the batting average for the former and earned run average for the latter. 
 
 __Understanding and Cleaning the Data__
+(~DONE) 
 
 __Visualizing the Data__ 
+(~DONE)
+
+__Combining the Datasets__ 
 
 __Answering the Questions__ 
 
